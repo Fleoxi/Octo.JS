@@ -1,0 +1,9 @@
+{
+  "name": "Octo.JS",
+  "version": "0.0.1",
+  "description": "Octoprint API for NodeJS",
+  "main": "index.js",
+  "repository": "https://github.com/Fleoxi/Octo.JS",
+  "author": "Fleoxi",
+  "license": "ISC"
+}
